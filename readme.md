@@ -1,6 +1,6 @@
 # Command Pattern
 
-Esta es una adaptación a Typescript del patrón de diseño Command, en este proyecto puedes ver una lista de comandos básicos y una estructura de archivos segregada, de modo que la idea del patrón se pueda capturar de forma más simple.
+Esta es una adaptación a Typescript del patrón de diseño Command, en este proyecto puedes ver una lista de comandos básicos y una estructura de archivos segregada, de modo que la idea del patrón y la ejecución de los comandos se pueda capturar de forma más simple.
 
 ## Como correr el proyecto?
 
